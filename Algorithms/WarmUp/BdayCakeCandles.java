@@ -1,6 +1,7 @@
 public class Solution {
 
     // Complete the birthdayCakeCandles function below.
+    // Hi Alekhya 
     static int birthdayCakeCandles(int[] ar) {
         int n=ar.length;
         int max=0;
